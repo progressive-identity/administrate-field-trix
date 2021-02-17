@@ -1,2 +1,2 @@
-//= require trix
-//= require activestorage
+require("trix")
+require("@rails/actiontext")
