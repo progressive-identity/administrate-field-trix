@@ -1,2 +1,2 @@
-//= require trix
-//= require actiontext
+require("trix")
+require("@rails/actiontext")
